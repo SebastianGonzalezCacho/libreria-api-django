@@ -48,3 +48,23 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.cache
+.mypy_cache/
+
+# Logs
+logs/
+*.log
+
+# Reports
+*.xlsx
+*.xls
+test_report.json
+
+# CI/CD
+.github/workflows/*.yml
+!.github/workflows/ci-cd.yml
