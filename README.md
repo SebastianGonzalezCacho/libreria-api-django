@@ -251,7 +251,7 @@ Este proyecto está bajo licencia MIT - ver archivo [LICENSE](LICENSE) para deta
 
 **Sebastian González Cacho**
 - GitHub: [@SebastianGonzalezCacho](https://github.com/SebastianGonzalezCacho)
-- Email: [tu-email@example.com](mailto:tu-email@example.com)
+- Email: [s.gonzalez.cacho@gmail.com](mailto:s.gonzalez.cacho@gmail.com)
 
 ## 🙏 Agradecimientos
 
